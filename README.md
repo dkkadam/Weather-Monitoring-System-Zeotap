@@ -30,7 +30,7 @@ A real-time weather monitoring system that fetches and displays weather data for
 
 ## Setup and Installation
 - Clone the Repository
-- git clone 
+- git clone https://github.com/dkkadam/Weather-Monitoring-System-Zeotap.git
 - install dependencies
 - npm install
 
